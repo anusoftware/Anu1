@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_NOTIFICATIONS</name>
+   <tag></tag>
+   <elementGuidId>7bb89ad6-26f6-4ca3-9354-83855559ae85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='FEES STRUCTURE'])[1]/following::mark[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;NOTIFICATIONS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>77cda70a-d69b-4df8-a2d8-3853b62019d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-inline-color has-accent-color</value>
+      <webElementGuid>bbad39e9-8266-4615-8e96-f1c09a4cf093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NOTIFICATIONS</value>
+      <webElementGuid>f02e9f81-f691-4c8e-8a7d-462ace7faaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home blog wp-custom-logo wp-embed-responsive&quot;]/div[@class=&quot;wp-site-blocks&quot;]/div[@class=&quot;wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex&quot;]/div[@class=&quot;wp-block-column is-layout-flow wp-block-column-is-layout-flow&quot;]/div[@class=&quot;wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex&quot;]/div[@class=&quot;wp-block-button is-style-outline&quot;]/a[@class=&quot;wp-block-button__link wp-element-button&quot;]/strong[1]/mark[@class=&quot;has-inline-color has-accent-color&quot;]</value>
+      <webElementGuid>f1b29bfe-a47d-460c-b2ab-e1a1541dda6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEES STRUCTURE'])[1]/following::mark[1]</value>
+      <webElementGuid>94bfc9d2-7942-4b49-b873-d72ea25fcf91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELIGIBILITY'])[1]/following::mark[2]</value>
+      <webElementGuid>f440d19b-f2c6-4650-9f53-0197540cb2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW TO APPLY'])[1]/preceding::mark[1]</value>
+      <webElementGuid>beef636c-ef70-4b93-8c03-5cd88930655a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(video)'])[1]/preceding::mark[2]</value>
+      <webElementGuid>0778d42f-eb13-413e-bd48-db991f7c0c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NOTIFICATIONS']/parent::*</value>
+      <webElementGuid>71b0c0fd-91e0-487f-a0b5-236f7171cf9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/strong/mark</value>
+      <webElementGuid>dad0a88a-0b69-4871-841c-5ad2c341b445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'NOTIFICATIONS' or . = 'NOTIFICATIONS')]</value>
+      <webElementGuid>ddc69e2e-faa2-4aeb-b4fe-9aa16acf7c13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

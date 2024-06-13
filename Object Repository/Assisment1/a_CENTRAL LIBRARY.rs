@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CENTRAL LIBRARY</name>
+   <tag></tag>
+   <elementGuidId>46dace47-42ef-4e15-a56f-525703c70c96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active > ul.submenu > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='mobile-menu']/ul/li[6]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;CENTRAL LIBRARY&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>077f29c9-4297-4f75-a16e-8ca73ea6efff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://centrallibrary.bssrv.ac.in/</value>
+      <webElementGuid>c819a0b8-966a-4a7a-82a9-5caf939abe3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2ae6d6cd-cf7b-4948-9569-ec12fe3172c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CENTRAL LIBRARY</value>
+      <webElementGuid>1c1620fe-33e0-4a45-a07a-7a7b36c1de9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mobile-menu&quot;)/ul[1]/li[@class=&quot;active&quot;]/ul[@class=&quot;submenu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>16a34364-6ea2-455f-9d2c-f8a904ad44c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mobile-menu']/ul/li[6]/ul/li/a</value>
+      <webElementGuid>5b5b6b0d-f9ff-44d8-b8c2-99a99053cf5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CENTRAL LIBRARY')]</value>
+      <webElementGuid>733a4ba0-d027-453a-a5f2-f4f2b0a6d068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACULTY OF Mass Communication'])[1]/following::a[2]</value>
+      <webElementGuid>1d9d5307-c763-4045-8612-9ecd8154613f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACULTY OF Agriculture'])[1]/following::a[3]</value>
+      <webElementGuid>c37d2c5f-fd63-4fbb-9040-b9a5deb89fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INCUBATION CENTRE'])[1]/preceding::a[1]</value>
+      <webElementGuid>f20f46c9-8d78-4e7f-b158-fe5195942615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIRLS COMMON ROOM'])[1]/preceding::a[2]</value>
+      <webElementGuid>5bf20fb3-141b-414c-b8b0-0fcc88514a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CENTRAL LIBRARY']/parent::*</value>
+      <webElementGuid>eec0050f-12d7-40da-88dd-8343ed7028c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://centrallibrary.bssrv.ac.in/']</value>
+      <webElementGuid>d4e8d5e1-aa53-4fb0-aeb0-f62792a68ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>96bc4d83-b946-449a-851d-0578aed59077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://centrallibrary.bssrv.ac.in/' and (text() = 'CENTRAL LIBRARY' or . = 'CENTRAL LIBRARY')]</value>
+      <webElementGuid>733bd201-8ede-4fef-9325-e68e4bb8ccd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
